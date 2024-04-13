@@ -11,6 +11,7 @@ I'm passionate about crafting delightful experiences through iOS app development
 - APIs: [Yelp API]
 
 ## 🚀 GitHub:
-Check out my GitHub profile to explore my portfolio of iOS projects and contributions to the developer community. From sleek user interfaces to robust backend integrations, each project reflects my dedication to excellence and innovation in iOS app development.
+Check out my GitHub profile to explore my portfolio of iOS projects.
 
-[Your GitHub Profile URL]
+[https://github.com/hisolomonray/Locavore-iOS-app]
+
